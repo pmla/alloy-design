@@ -5,4 +5,5 @@ The python script depends on the Gurobi MIP solver http://gurobi.com/ (free for 
 The code is tested on python 3.5.2.
 
 Article available at:
+
 https://doi.org/10.1016/j.actamat.2017.08.008
